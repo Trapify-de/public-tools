@@ -1,2 +1,4 @@
-# public-tools
-we extend this list with our tools, sources and more. Updated soon.
+This is a collection of free public tools by https://www.Trapify.de 
+Feel free to buymeacoffee.com/trapify ☕️
+
+Page will be extended soon.
